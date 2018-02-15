@@ -1,0 +1,9 @@
+Building Fdpcoin
+
+See doc/readme-qt.rst for instructions on building Fdpcoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Fdpcoin.
+
+See doc/build-*.txt for instructions on building fdpcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Fdpcoin.
